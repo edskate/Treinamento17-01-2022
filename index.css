@@ -58,4 +58,6 @@
                 color: #83bde9;
                 background-color: var(--dark-green);
             }
-           
+           p{
+               border: 1px solid ;
+           }
