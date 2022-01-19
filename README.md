@@ -67,3 +67,18 @@
 - I appreciate it
 
 ## 19:15
+
+## 23:55 /18/01/2022
+
+- I’m running a little late.( Eu estou um pouco atrasado.);
+- Are you up to anything tonight?( Você vai fazer alguma coisa hoje à noite?)
+- You’ve got to be kidding me!( Você só pode estar brincando comigo!) 
+- There you go! Agora sim! (Quando você consegue alcançar
+o resultado esperado depois de algumas tentativas.)
+- It’s not worth it!( Não vale a pena.)
+- Pull yourself together.( Se controle, se acalme.)
+- You sold me! (Você me convenceu!)
+- Take care! Se cuide! (Ao se despedir)
+- Do you want to order something to eat?( Você quer pedir alguma coisa para comer?)
+(Pedir via delivery.) 
+- Don’t take it to heart (Não leve para o lado pessoal.)
