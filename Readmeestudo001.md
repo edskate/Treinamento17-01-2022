@@ -1,4 +1,5 @@
 # JAVASCRIPTMAS
+
 <html>
    <head>
       <link rel="stylesheet" href="index.css">
@@ -25,11 +26,11 @@
       </div>
       <div class="controls">
          <div>
-            <input id="color" type="color" name="color" value="#99bbff"/> 
+            <input id="color" type="color" name="color" value="#99bbff"/>
             <label for="color">Eye Color</label>
          </div>
          <div>
-            <input id="color3" type="color" name="color3" value="#ffa500"/> 
+            <input id="color3" type="color" name="color3" value="#ffa500"/>
             <label for="color3">Nose Color</label>
          </div>
          <div>
@@ -94,7 +95,7 @@ body,
 }
 
 input {
-  margin: 0.25em; 
+  margin: 0.25em;
   border: none;
   cursor: pointer;
 }
