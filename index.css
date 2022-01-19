@@ -60,4 +60,7 @@
             }
            p{
                border: 1px solid ;
+               text-shadow: 2px 3px 4px #83bde9;
+               color: darkgreen
+               ;
            }
