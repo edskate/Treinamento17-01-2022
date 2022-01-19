@@ -80,5 +80,44 @@ o resultado esperado depois de algumas tentativas.)
 - You sold me! (Você me convenceu!)
 - Take care! Se cuide! (Ao se despedir)
 - Do you want to order something to eat?( Você quer pedir alguma coisa para comer?)
-(Pedir via delivery.) 
+(Pedir via delivery.)
+
 - Don’t take it to heart (Não leve para o lado pessoal.)
+
+## 19/01/2022/-ás 12:42 Janeiro
+
+## Um estudo de 2021 do Banco Nacional de Empregos
+
+- (BNE), revelou que essas são as 15 carreiras
+- com exigência mais frequente do inglês nas vagas anunciadas:
+
+- Analista de Relações Internacionais
+- Analista de Comércio Exterior
+- Analista de importação e exportação
+- Engenheiro de Telecomunicações
+- Secretária bilíngue
+- Gerente de projetos
+- Tradutor
+- Analista de infraestrutura
+- Gerente de TI
+- Engenheiro eletricista
+- Analista de Business Intelligence-
+- Analista de Comunicação
+- Gerente de Marketing
+- Analista de processos
+- Analista de redes.
+
+## Tecnologia
+
+- Segundo a  Associação Brasileira das Empresas de Software
+
+- (Abes), o Brasil já é o 10% maior mercado de profissionais de
+
+- TI do mundo! Isso tudo apesar de sofrer com um sério de déficit
+- de profissionais na área, que deve chegar a mais de 
+- 400 mil postos até o fim de 20222. Isso mesmo! Mais de 
+- 400 mil postos de emprego… Sobrando!
+- Em uma entrevista ao jornal O Globo,
+- o executivo Leonardo Filardi, diretor da escola de programação
+- 42|RIO revelou que um dos grandes motivos para essa carência
+- de profissionais de tecnologia é… Isso mesmo: fluência em inglê.
